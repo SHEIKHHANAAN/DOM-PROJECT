@@ -1,0 +1,14 @@
+body{
+    height: 50vh;
+    width: 50vw;
+    overflow: hidden;
+    background-color: grey;
+}
+button{
+    height: 50px;
+    width: 100px;
+    margin: 50% 90%;
+    background-color: #fff;
+    border: 1px solid white;
+    border-radius: 5px;
+}
